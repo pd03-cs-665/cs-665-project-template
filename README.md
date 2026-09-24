@@ -1,16 +1,16 @@
 
 | CS-665       | Software Design & Patterns |
 |--------------|----------------------------|
-| Name         | FIRST_NAME LAST_NAME       |
+| Name         | Laya Dang                  |
 | Date         | MM/DD/YYYY                 |
-| Course       | Fall / Spring / Summer     |
-| Assignment # |                            |
+| Course       | Fall 2026                  |
+| Assignment # | TBD                        |
 
 # Assignment Overview
 Please add a paragraph or two overviewing the objectives of the assignment.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/pd03-cs-665/cs-665-assignment-{ASSIGNMENT_NUMBER}
 
 # Implementation Description 
 
